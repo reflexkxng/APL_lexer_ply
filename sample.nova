@@ -1,0 +1,29 @@
+-- NovaLang sample program
+let int A = 20
+let int B = 40
+let int C = A + B * B
+display "Value of C:", C
+
+func add(int X, int Y)
+    return X + Y
+end
+
+display add(5, 10)
+
+try
+    let int D = C / 10
+catch
+    display "Error: Division by zero"
+end
+
+if A == 20
+    display "A is twenty"
+else
+    display "A is not twenty"
+end
+
+let bool flag = true
+while flag
+    display "looping"
+    flag = false
+end

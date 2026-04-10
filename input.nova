@@ -1,0 +1,5 @@
+let int a = 10
+let int b = 30
+if a < b
+    display "A is smaller"
+end

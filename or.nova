@@ -1,0 +1,5 @@
+-- Welcome to NovaLang
+let int A = 25
+let int B = 75
+display "Nova Computing:", (A + B)
+
