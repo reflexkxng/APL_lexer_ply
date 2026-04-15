@@ -1,5 +1,5 @@
 """
-Mark Vernon & [Your Name]: Code Execution Developer
+Mark Vernon: Code Execution Developer
 Implements the runtime interpreter for the NovaLang (APL) language.
 """
 
