@@ -1,5 +1,4 @@
-"""
-[Your Name]: Semantic Analysis Developer
+""" Semantic Analysis Developer
 Implements AST construction and semantic analysis for the NovaLang compiler.
 
 This module:
